@@ -1,0 +1,7 @@
+part_id,name,spec,category,stock,safety_stock,supplier,location,remark
+
+P001,M8 Bolt,M8x20,Fastener,120,50,Supplier A,A-01-02,Stainless steel
+
+P002,Deep Groove Ball Bearing,6204,Bearing,30,10,Supplier B,B-02-01,Need grease
+
+P003,Proximity Sensor,M12 PNP,Sensor,8,15,Supplier C,C-03-04,Low stock example
